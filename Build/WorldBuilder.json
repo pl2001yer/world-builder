@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WorldBuilder.data.unityweb",
+"asmCodeUrl": "WorldBuilder.asm.code.unityweb",
+"asmMemoryUrl": "WorldBuilder.asm.memory.unityweb",
+"asmFrameworkUrl": "WorldBuilder.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
